@@ -1,6 +1,6 @@
 ##olá! Eu sou Lincoln Damasceno 🖐️
 
-![Lincoln GitHub stats](https://github-readme-stats.vercel.app/api?username=QaLincoln&show_icons=true&theme=transparent)
+![Lincoln GitHub stats](https://github-readme-stats.vercel.app/api?username=QaLincoln&show_icons=true&theme=dracula)
 
 
 ##Linguagens
