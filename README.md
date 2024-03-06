@@ -9,7 +9,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="html5" src=https://www.youtube.com/watch?v=cRoBt6AZgjc" />
+  <img align="center" alt="html5" src="https://www.youtube.com/watch?v=cRoBt6AZgjc" />
 <div><br/>
 
 ##Frameworks Teste
