@@ -12,11 +12,6 @@
   <img align="center" alt="html5" src=https://www.youtube.com/watch?v=cRoBt6AZgjc" />
 <div><br/>
 
-##Projetos
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />  
-<div><br/>
-
 ##Frameworks Teste
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5)" />
